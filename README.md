@@ -2,3 +2,4 @@
 
 
 Um projeto básico do famoso Jogo da Velha, com funções, eventos, DOM e etc.
+Aprendizagem com a B7web.
